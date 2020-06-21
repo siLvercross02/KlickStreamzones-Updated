@@ -1,0 +1,58 @@
+html, body {
+    height: 100%;
+    /* background-color: #333; */
+    background: url('../images/shades-orange.JPG') no-repeat center center;
+}
+
+body {
+    display: flex;
+    color: #fff;
+    text-shadow: 0 0.05rem 0.1rem rgba(0, 0, 0, .5);
+    box-shadow: 0 0.05rem 0.1rem rgba(0, 0, 0, .5);
+}
+
+/* .landing-container {
+    max-width: 42em;
+} */
+
+.header-cap {
+    margin-bottom: 2rem;
+}
+
+.cover {
+    padding: 0 1.5rem;
+}
+
+.nav-head .active {
+    color: #192965;
+}
+
+.nav-head .nav-link {
+    color: #fff;
+    font-weight: 700;
+}
+
+/* .mask-color {
+    background-color: rgba(255, 255, 255, 0.77);
+} */
+
+.text-head {
+    color: #192965;
+}
+
+.text-bold {
+    font-weight: 700!important;
+}
+
+.learn-more {
+    background: #192965;
+}
+
+.learn-more:hover {
+    background: #2a47b3;
+}
+
+footer {
+    color: #fff;
+    font-weight: 500;
+}
